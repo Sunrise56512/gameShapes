@@ -1,0 +1,15 @@
+.shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+    cursor: pointer;
+}
+
+.Bomb{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    cursor: pointer;
+}
